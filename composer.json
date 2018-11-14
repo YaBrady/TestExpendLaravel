@@ -1,0 +1,16 @@
+{
+    "name": "yabrady/packagetest-for-laravel",
+    "description": "test for laravel",
+    "authors": [
+        {
+            "name": "YaBrady",
+            "email": "bayaojiu@gmail.com"
+        }
+    ],
+    "autoload":{
+      "psr-4": {
+          "YaBrady\\Packagetest\\": "src/"
+      }
+    },
+    "require": {}
+}
