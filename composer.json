@@ -4,7 +4,15 @@
     "authors": [
         {
             "name": "YaBrady",
-            "email": "bayaojiu@gmail.com"
+            "email": "bayaojiu@gmail.com",
+            "role": "leader",
+            "homepage": "https://bayaojiu.com"
+        },
+        {
+            "name": "MozzH",
+            "email": "bayaojiu@gmail.com",
+            "role": "teammate",
+            "homepage": "https://bayaojiu.com"
         }
     ],
     "autoload":{
@@ -13,6 +21,15 @@
       }
     },
     "keywords":["laravel","testing","expend","PHP","provider","framework"],
-    "require": {},
-    "version":"1.0.0-beta1"
+    "version":"1.0.0-beta1",
+    "homepage":"https://bayaojiu.com",
+    "time":"2018-11-10",
+    "license":"MIT",
+    "support":{
+        "email": "bayaojiu@gmail.com",
+        "wiki": "https://bayaojiu.com"
+    },
+    "require":{
+        "php": "^7.1.3"
+    }
 }
