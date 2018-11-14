@@ -12,5 +12,7 @@
           "YaBrady\\Packagetest\\": "src/"
       }
     },
-    "require": {}
+    "keywords":["laravel","testing","expend","PHP","provider","framework"],
+    "require": {},
+    "version":"1.0.0-beta1"
 }
