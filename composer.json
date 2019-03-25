@@ -20,8 +20,12 @@
           "YaBrady\\Packagetest\\": "src/"
       }
     },
+    "repositories":[
+        {
+            "type": "vcs", "url": "https://github.com/YaBrady/TestExpendLaravel.git"
+        }
+    ],
     "keywords":["laravel","testing","expend","PHP","provider","framework"],
-    "version":"1.0.0-beta1",
     "homepage":"https://bayaojiu.com",
     "time":"2018-11-10",
     "license":"MIT",

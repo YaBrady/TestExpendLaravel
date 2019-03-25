@@ -1,16 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Ya Brady
+ * User1: Ya Brady
  * Date: 2018/11/13
  * Time: 21:06
  */
 
 namespace YaBrady\Packagetest;
-
-use Illuminate\Contracts\Config\Repository;
-use Illuminate\Session\SessionManager;
-
 class Packagetest
 {
     protected $session;
