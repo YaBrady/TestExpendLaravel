@@ -15,7 +15,7 @@ class PackagetestServiceProvider extends ServiceProvider
     {
 //        $this->loadViewsFrom(__DIR__.'/views', 'Pat');
         $this->publishes([
-            __DIR__.'/views'                x    =>base_path('resources/views/vendor/packagetest'),
+            __DIR__.'/views'          =>base_path('resources/views/vendor/packagetest'),
             __DIR__ . '/config/packagetest.php' =>config_path('packagetest.php')
         ]);
     }
